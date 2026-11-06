@@ -1,14 +1,14 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "description": "Create and manage supply-chain-safe dev sandboxes",
     "homepage": "https://github.com/eetu/luoto",
     "license": "MIT",
     "notes": "luoto needs a container runtime: podman or Docker. Then run: luoto setup",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/eetu/luoto/releases/download/v0.2.1/luoto-0.2.1-x86_64-pc-windows-msvc.zip",
-            "hash": "241b85633fa1eb7e2158ec2cbdea49ab5a4ae58c2fe7624089380302878dc656",
-            "extract_dir": "luoto-0.2.1-x86_64-pc-windows-msvc"
+            "url": "https://github.com/eetu/luoto/releases/download/v0.2.2/luoto-0.2.2-x86_64-pc-windows-msvc.zip",
+            "hash": "90fb4d7b00e71b4a9a8e56aa8a926892c5ba7aebf2aef8aad5c095b29a45401d",
+            "extract_dir": "luoto-0.2.2-x86_64-pc-windows-msvc"
         }
     },
     "bin": "luoto.exe",
